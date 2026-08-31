@@ -29,8 +29,8 @@ variables:
     value: ""
     description: "Application version to deploy (required)."
   APP_NAME:
-    value: "konstruct-demo-app"
-    description: "Application name (defaults to konstruct-demo-app)."
+    value: "app-1"
+    description: "Application name (defaults to app-1)."
   GITOPS_PROJECT: "abdul-talha-dev/abdul-talha-dev-gitops"
   GITOPS_REF: "main"
   UPDATE_PIPELINE_FILE: "update-environment.yaml"

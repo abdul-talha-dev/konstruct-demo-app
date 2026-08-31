@@ -34,7 +34,7 @@ writes into the customer repo:
 | Token | Source |
 |---|---|
 | `development` | YAML list rendered from `Application.Spec.ReleaseStages` |
-| `konstruct-demo-app` | `Application.Name` |
+| `app-1` | `Application.Name` |
 | `abdul-talha-dev` | `GitAccount.Spec.OrgName` (full group path on GitLab) |
 | `abdul-talha-dev-gitops` | `GitAccount.Spec.RepoName` |
 

@@ -17,7 +17,7 @@ on:
         description: 'Application name'
         required: false
         type: string
-        default: konstruct-demo-app
+        default: app-1
 
 jobs:
 
