@@ -29,8 +29,8 @@ variables:
     value: ""
     description: "Application version to deploy (required)."
   APP_NAME:
-    value: "deployment-guides"
-    description: "Application name (defaults to deployment-guides)."
+    value: "my-app"
+    description: "Application name (defaults to my-app)."
   GITOPS_PROJECT: "abdul-talha-dev/abdul-talha-dev-gitops"
   GITOPS_REF: "main"
   UPDATE_PIPELINE_FILE: "update-environment.yaml"

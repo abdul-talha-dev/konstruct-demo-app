@@ -17,7 +17,7 @@ on:
         description: 'Application name'
         required: false
         type: string
-        default: deployment-guides
+        default: my-app
 
 jobs:
 
